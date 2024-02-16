@@ -12,6 +12,8 @@ One major issue is that benchmarks for detecting hallucinations in LLMs are ofte
 | [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251) | 2023 | [[Github]](https://github.com/shmsw25/FActScore) |
 | [Investigating Answerability of LLMs for Long-Form Question Answering](https://arxiv.org/abs/2309.08210) | 2023 |  |
 | [Understanding Retrieval Augmentation for Long-Form Question Answering](https://arxiv.org/abs/2310.12150) | 2023 |  |
+| [Fast and Accurate Factual Inconsistency Detection Over Long Documents](https://arxiv.org/abs/2310.13189) | 2023 | [[Github]](https://github.com/asappresearch/scale-score)  |
+
 
 ## Other [ Blog etc ]
 
