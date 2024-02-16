@@ -1,7 +1,7 @@
 <h2 align="center">Awesome longform Hallucination Detection & Migration </h2>
 
 <p align="center">
-  <p align="center"> This repository contains hand-curated resources for Long-form hallucinations detection with a focus on Generative Pre-trained Transformer (GPT). 
+This repository contains hand-curated resources for Long-form hallucinations detection with a focus on Generative Pre-trained Transformer (GPT). 
   Long-form text generation is widely used in large language models (LLMs), as referenced in studies [2, 3]. However, with longer texts, these models are more likely to generate nonsenical content, coined as "hallucinations", making it more challenging to evaluate [1]. 
 
 One major issue is that benchmarks for detecting hallucinations in LLMs are often limited to short, factual questions and answers. Additionally, evaluating these hallucinations in long-form content is complex. The current evaluation methods have their limitations, especially when dealing with complex, debatable facts or when different sources provide conflicting information. These challenges complicate the use of LLMs for applications that mimic real-world situations.
